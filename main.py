@@ -125,7 +125,7 @@ with col2:
         </div>
         '''.format(st.session_state.assistant_response), unsafe_allow_html=True)
         if len(st.session_state.assistant_response) > 450:
-            st.image("recuerda_foquito.png", caption="", width=550)
+            st.image("recuerda_que_foquito.png", caption="", width=550)
         #st.markdown('<div class="copy-button">', unsafe_allow_html=True)
         #if st.button("Copiar respuesta"):
             # Use Streamlit's built-in clipboard functionality
