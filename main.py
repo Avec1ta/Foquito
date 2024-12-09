@@ -102,8 +102,8 @@ with col2:
             clientes, cuál es la identidad de tu marca, cuántas ideas necesitas (máximo 
             20 ideas por ahora)
             y para qué mes las necesitas. Luego presiona 'Enviar' para obtener 
-            ideas de contenido para redes sociales. Un ejemplo de buen prompt 
-            sería:</p>
+            ideas de contenido para tus redes sociales. 
+            Un ejemplo de buen prompt sería:</p>
             <pre>
             Tengo un vivero, vendo plantas de interior y exterior, suculentas, 
             macetas, abonos, fertilizantes, insecticidas orgánicos, etc. 
@@ -111,8 +111,7 @@ with col2:
             la naturaleza y busca propagar este amor por las plantas y el 
             equilibrio natural a todas las personas. Mis clientes suelen ser 
             jóvenes, mayormente mujeres que les gusta la belleza que las 
-            plantas aportan a sus espacios. Deseo 7 ideas de contenido 
-            para setiembre.
+            plantas aportan a sus espacios. Deseo 7 ideas para setiembre.
             </pre>
         </div>
         ''', 
